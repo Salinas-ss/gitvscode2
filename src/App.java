@@ -11,6 +11,6 @@ public class App {
         System.out.print("Introduzca nota de la tercera evaluación: ");
         eval3=s.nextDouble();
         media=(eval1+eval2+eval3)/3;
-        System.out.println("La media es "+media);//cambio
-    }
+        System.out.println("La media es "+media);//comentario
+    }//otro comentario
 }
